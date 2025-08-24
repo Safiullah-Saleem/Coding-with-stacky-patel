@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "This is my second day of react",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
